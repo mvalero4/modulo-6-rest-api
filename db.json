@@ -1,0 +1,42 @@
+{
+    "characters": [
+        {
+            "id": 1,
+            "name": "Rick Sanchez",
+            "species": "Human",
+            "gender": "Male",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
+            "bestSentences": []
+        },
+        {
+            "id": 2,
+            "name": "Morty Smith",
+            "species": "Human",
+            "gender": "Male",
+            "status": "Alive",
+            "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
+            "bestSentences": []
+        },
+        {
+            "id": 3,
+            "name": "Summer Smith",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Female",
+            "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
+            "bestSentences": []
+        },
+
+        {
+            "id": 4,
+            "name": "Beth Smith",
+            "status": "Alive",
+            "species": "Human",
+            "gender": "Female",
+            "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg",
+            "bestSentences": []
+        }
+    ]
+}
+  
